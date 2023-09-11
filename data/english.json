@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "question": "He was killed by breakfast. Why?",
+    "answer": "A man is camping in the mountains.  He makes breakfast, then puts pepper on his food (eggs, perhaps).  The pepper makes him sneeze loudly, which starts an avalanche, which kills him.",
+    "clue": "```1.Man was camping in the mountains\n2.He used pepper on his breakfast\n3.The sneeze caused by pepper led to an avalanche\n4.The avalanche resulted in his death```"
+  },
+  {
+    "id": 1,
+    "question": "Passing by a window, you see two dead men in a room, with a gun and a deck of cards. Why?",
+    "answer": "You're a diver, going past a window of a sunken submarine (or ship).  The two men were in a sinking vessel; they had a gun but only one bullet.  Neither wanted to drown, so they played cards to see who would get the bullet.  The loser shot the winner (or else the winner shot himself), and then the loser drowned when the room filled up with water.",
+    "clue": "```1.I am a diver.\n2.The scene takes place in a sunken submarine or ship.\n3.Only one bullet is in the gun.\n4.The men played cards to determine who would get shot.\n5.The winner of the card game was shot and the loser drowned.```"
+  },
+  {
+    "id": 2,
+    "question": "A man is found shot to death in the front seat of his car; a gun lies out of his reach in the back seat.  All the windows are closed and the doors are locked; there are no bullet holes anywhere in the car. Why?",
+    "answer": "The car is a convertible; the top was down.  (Or the sunroof, or something else that's neither window nor door.)  The murderer shot him and then dropped the gun into the back seat of the car.",
+    "clue": "```1.The car is a convertible or has a sunroof.\n2.The murderer dropped the gun in the back seat after shooting the man.```"
+  },
+  {
+    "id": 3,
+    "question": "A man is sitting in a room. Another person enters, carrying a closed cardboard box, and sits down nearby. Though the first man can't see, hear, or smell the box's contents, he knows what's in the box. Why?",
+    "answer": "The man is allergic to cats, and feels the allergy symptoms coming on, so he knows the box contains a cat.",
+    "clue": "```1.The man is allergic to cats.\n2.He experiences allergy symptoms.\n3.Reaction to allergens is not the same as noticing a smell consciously.```"
+  },
+  {
+    "id": 4,
+    "question": "There is blood on the ceiling of my bedroom. Why?",
+    "answer": "A mosquito bit me, and I swatted it when it later landed on my ceiling (so the blood is my own as well as the mosquito's).",
+    "clue": "```1.Mosquito bit me.\n2.I swatted the mosquito on the ceiling.\n3.The blood is a mix of mine and the mosquito's.```"
+  },
+  {
+    "id": 5,
+    "question": "A woman is heating her coffee in a small microwave oven.  She puts it in for exactly two minutes.  She then opens the door, closes it, then heats her coffee for two more seconds. Why?",
+    "answer": "She opens the door and sees that the handle of her cup is facing the back of the microwave.  She then sets the oven for two more seconds so that the turntable will turn 180 degrees so that she can reach the cup-handle, to avoid burning her hand.",
+    "clue": "```1.The microwave has a turntable.\n2.The cup handle was facing the back of the microwave.\n3.The woman wants to avoid burning her hand.\n4.She heats it for additional seconds to position the cup-handle for easy reach.```"
+  },
+  {
+    "id": 6,
+    "question": "A man tells his boss, \"Don't take your planned flight today!  I had a dream last night that if you do, your plane will crash and you'll die.\"  The boss fires the man. Why?",
+    "answer": "The man was the night watchman; he should've been on duty the previous night, not dreaming.",
+    "clue": "```1.The man is a night watchman.\n2.He should have been on duty instead of sleeping.```"
+  },
+  {
+    "id": 7,
+    "question": "A man finishes getting dressed, lies down and dies. Why?",
+    "answer": "There is a poisonous spider in the toe of his shoe.  The last things he puts on are his shoes.  He gets bitten, feels ill, lies down on his bed, and then dies of the poison.",
+    "clue": "```1.There is a poisonous spider in his shoe\n2.He gets bitten by the spider\n3.The spider bite causes him to feel ill\n4.He dies from the poison```"
+  },
+  {
+    "id": 8,
+    "question": "A flash of light, a man dies.  Why?",
+    "answer": "The man is a lion-tamer, posing for a photo with his lions. The lions react badly to the flash of the camera, and the man can't see properly, so he gets mauled.",
+    "clue": "```1.The man is a lion-tamer.\n2.He was posing for a photo with lions.\n3.Camera flash startled the lions.\n4.The flash affected his vision, preventing him from escaping.```"
+  },
+  {
+    "id": 9,
+    "question": "A man enters the elevator of a high rise apartment building, takes off one glove, and pushes the button for the tenth floor.  The next day, the same man enters the elevator, puts on one glove, and pushes the button for the tenth floor. Why?",
+    "answer": "The man is blind.  His first time in the elevator, he's wearing gloves; the elevator uses buttons that work by electrical conduction through the skin; they light up at the slightest touch, but not through a glove.  The man thus has to remove a glove to get the button to work.  But he discovers that first day that as he runs his ungloved hand over the buttons to find the tenth floor, all the buttons are activated, and the elevator stops at all the floors.  So from then on, he carries a glove with him; he puts it on when he enters the elevator, finds the right button with his gloved hand, then uses his ungloved hand to press the tenth-floor button.",
+    "clue": "```1.The man is blind.\n2.Elevator buttons work by electrical conduction through the skin.\n3.Braille labels on buttons not effective in preventing accidental activation.\n4.He uses one glove to avoid activating multiple floors.```"
+  },
+  {
+    "id": 10,
+    "question": "An old man gets the hiccups.  Soon, he is rushed to the hospital. Why?",
+    "answer": "The man is a glassblower.  His old age has brought about a decline in his vision, so he must use shorter pipes to blow glass.  He gets the hiccups, accidentally inhales some hot vapors / molten glass and burns his mouth and throat area.",
+    "clue": "```1.The man is a glassblower.\n2.His old age has caused poor vision.\n3.He uses shorter pipes due to vision decline.\n4.Hiccups caused him to inhale hot vapors/molten glass.\n5.He suffers burns in his mouth and throat area.```"
+  },
+  {
+    "id": 11,
+    "question": "A man is found dead outside a large building with a hole in him. Why?",
+    "answer": "The man was struck by an object thrown from the roof of the Empire State Building.",
+    "clue": "```1.The man was near the Empire State Building.\n2.An object was thrown from the roof of the building.\n3.The thrown object had enough mass to penetrate the man's skull, causing his death.```"
+  },
+  {
+    "id": 12,
+    "question": "A man dies in his own home. Why?",
+    "answer": "His home is a houseboat and he has run out of water while on an extended cruise.",
+    "clue": "```1.The man lives in a houseboat.\n2.He was on an extended cruise.\n3.He ran out of water during the cruise.```"
+  },
+  {
+    "id": 13,
+    "question": "If he had wanted chocolate ice cream, his brother would be alive today. Why?",
+    "answer": "A young boy is going out to play one afternoon and on his way out he stops off in the garage to check for an ice cream bar in the large chest freezer the family keeps there.  The freezer is new and almost empty as yet, so the boy has to prop himself up on the edge to reach into the bottom to find the ice cream.  He loses his balance and falls into the freezer, with the lid latching shut over him.  Right about then, his older brother arrives home from high school and asks his mom if they have any popsicles in the freezer.  She says no, but she bought some chocolate ice cream that day and he can have some of that if he wishes.  He decides he is not in the mood for chocolate ice cream and goes up to his room to listen to some music.  His brother suffocates.",
+    "clue": "```1. Young boy searching for ice cream in a chest freezer\n2. Boy falls into the freezer and gets trapped\n3. Older brother asks for a popsicle but is offered chocolate ice cream\n4. Older brother doesn't check the freezer, and the younger sibling suffocates```"
+  },
+  {
+    "id": 14,
+    "question": "If he'd turned on the light, he'd have lived. Why?",
+    "answer": "A man was shot during a robbery in his store one night.  He staggered into the back room, where the telephone was, and called home, dialing by feel since he hadn't turned on the light.  Once the call went through he gasped, \"I'm at the store.  I've been shot.  Help!\" or words to that effect.  He set the phone down to await help, but none came; he'd treated the telephone pushbuttons like cash register numbers, when the arrangements of the numbers are upside down reflections of each other.  The stranger he'd dialed had no way to know where \"the store\" was.",
+    "clue": "```1.The man was shot during a robbery.\n2.He attempted to call for help in the dark.\n3.Telephone and cash register number arrangements are different.\n4.He accidentally dialed a stranger instead of his family.```"
+  },
+  {
+    "id": 15,
+    "question": "A man is found dead on the floor in the living room. Why?",
+    "answer": "The dead man was playing Santa Claus, for whatever reason; he slipped while coming down the chimney and broke his neck.",
+    "clue": "```1.The man was playing Santa Claus.\n2.He slipped while coming down the chimney.\n3.He broke his neck in the fall.```"
+  },
+  {
+    "id": 16,
+    "question": "A man went into a restaurant, had a large meal, and paid nothing for it. Why?",
+    "answer": "The man was a famous artist.  A woman who collected autographs saw him dining; after he left the restaurant, she purchased the check that he used to pay for the meal from the restaurant manager.  The check was therefore never cashed, so the artist never paid for the meal.",
+    "clue": "```1.The man is a famous artist.\n2.A woman collects autographs and wanted his.\n3.She bought the signed check from the restaurant manager.\n4.The check was never cashed, so the artist didn't pay.```"
+  },
+  {
+    "id": 17,
+    "question": "A U.S. Navy sailor on the deck of a cruiser noticed an explosive mine in the water directly in the path of the ship.  With no time to communicate the situation to the captain of the ship, the sailor saved the lives of the crew and the ship. Why?",
+    "answer": "The sailor grabbed the fire hose from the deck and used the force of the water from the hose to push the mine away from the hull of the ship.  The water pressure doesn't explode the mine; WWII-style mines contain magnetic sensors which make them explode on contact with a ship's hull.",
+    "clue": "```1.The sailor noticed the mine directly in the ship's path\n2.There was no time to communicate with the captain\n3.The sailor used a fire hose to push the mine away\n4.WWII-style mines explode on contact with a ship's hull```"
+  },
+  {
+    "id": 18,
+    "question": "As I drive to work on my motorcycle, there is one corner which I go around at a certain speed whether it's rainy or sunny.  If it's cloudy but not raining, however, I usually go faster. Why?",
+    "answer": "There's a car wash on that corner.  On rainy days, the rain reduces traction.  On sunny days, water from the car wash has the same effect.  If rain is threatening, though, the car wash gets little business and thus doesn't make the road wet, so I can take the corner faster.",
+    "clue": "```1.There's a car wash on the corner.\n2.Rain and car wash water reduce traction.\n3.On cloudy, non-rainy days, the car wash receives less business.\n4.Less business at the car wash means a drier and less slippery road.```"
+  },
+  {
+    "id": 19,
+    "question": "A man tries to buy poison to kill his wife.  The pharmacist figures out what he's up to and finds a way to ensure that he can't kill his wife. Why?",
+    "answer": "The pharmacist gives the man a cup of coffee to drink while he's waiting.  After the man has drunk the coffee, the pharmacist says, \"There was poison in that coffee.  I'll give you the antidote if you write a signed statement that you were planning to kill your wife.  I'll keep the confession; if anything happens to your wife, I'll give it to the police.\"",
+    "clue": "```1.The pharmacist senses the man's intentions.\n2.The pharmacist gives the man poisoned coffee.\n3.The antidote is offered in exchange for a signed confession.\n4.The confession will be used as evidence if the wife is harmed.```"
+  },
+  {
+    "id": 20,
+    "question": "A man was walking down a road when a stone lodged itself between his foot and his sandal.  He leaned against a pole and, with his head down to watch, he shook his foot to dislodge the stone.  Another man came up and broke the first man's arm in three places. Why?",
+    "answer": "The chap shaking his foot to dislodge the stone was leanig against a metal light pole.  The other fellow came along and thought that the pole had become 'live' somehow; he thought the first fellow was being electrocuted (and that the muscles in his hand had contracted and he couldn't let go).  So the second fellow rushed over and whacked the first one on the arm, hard.  He apologised for it afterwards.",
+    "clue": "```1.The first man leaned against a metal light pole.\n2.The second man thought the first man was being electrocuted.\n3.The second man tried to save the first man by hitting his arm.\n4.The intention was to help, not to harm.```"
+  },
+  {
+    "id": 21,
+    "question": "A riverboat filled with passengers suddenly capsized, drowning most of those aboard. Why?",
+    "answer": "The boat was moving along a river when a large snake dropped onto the deck.  The passengers all rushed to the other side of the boat, thereby overturning it.",
+    "clue": "```1.A large snake dropped onto the deck.\n2.Passengers rushed to the other side of the boat in panic.\n3.The boat capsized due to the sudden shift in weight.```"
+  },
+  {
+    "id": 22,
+    "question": "A woman walks into a small room and screams. Why?",
+    "answer": "The woman is a nun, the room is a bathroom in what is supposed to be a women-only area, and the toilet seat has been left up.",
+    "clue": "```1.The woman is a nun.\n2.The room is a bathroom in a women-only area.\n3.The toilet seat has been left up.```"
+  },
+  {
+    "id": 23,
+    "question": "A man is found dead on a path 200 feet from a gate.  Other than his clothes, all he had with him was a stick. Why?",
+    "answer": "The gate is the starting gate of a horse race.  The man is a jockey who fell off his horse shortly after it left the gate and got run over by the rest of the horses.  The stick is his riding crop.",
+    "clue": "```1.The gate is a horse race starting gate.\n2.The man was a jockey.\n3.He fell off his horse.\n4.The stick is a riding crop.```"
+  },
+  {
+    "id": 24,
+    "question": "A man is found dead in his parked car.  Tire tracks lead up to the car and away. Why?",
+    "answer": "The dead man was the driver in a hit-and-run accident which paralyzed its victim.  The victim did manage to get the license plate number of the car; now in a wheelchair, he eventually tracked down the driver and shot and killed him.",
+    "clue": "```1.Hit-and-run accident involving the dead man\n2.Victim became paralyzed but got the license plate number\n3.Victim tracked down the driver\n4.Victim killed the driver in revenge```"
+  },
+  {
+    "id": 25,
+    "question": "Two men are kidnapped and are placed in the trunk of a car.  The next morning, when the trunk is opened, one man is alive and the other is dead. Why?",
+    "answer": "One of them suffocated; the other lived by breathing the air from the spare tire in the trunk.",
+    "clue": "```1.One man found the spare tire.\n2.The spare tire provided air to breathe.\n3.The other man couldn't find this source of air.\n4.Suffocation caused the death of one man.```"
+  },
+  {
+    "id": 26,
+    "question": "A man urinates and dies. Why?",
+    "answer": "He urinated on the third rail in the New York subway, was knocked onto the tracks by the shock, and was hit by a train and killed.",
+    "clue": "```1.Man urinates on the third rail\n2.Electrical shock knocks him onto the tracks\n3.He is hit by a train\n4.The incident occurred in the New York subway```"
+  },
+  {
+    "id": 27,
+    "question": "Two men are dead next to a pile of wood and a rope. Why?",
+    "answer": "The two men were bungee jumpers.  They found a secluded wooden bridge and decided to bungee off of it.  One man jumped off after being tied to  the bridge, but at the nadir of his fall, the bridge gave out.  The man who jumped landed on the ground safely since he was fairly close to the  earth, but the collapsing bridge fell on top of him.  The other man fell  along with the bridge to his death.",
+    "clue": "```1.The two men were bungee jumpers.\n2.They jumped off a secluded wooden bridge.\n3.The bridge collapsed during the jump.\n4.One man survived the fall but was crushed by the bridge.\n5.The other man fell to his death alongside the bridge.```"
+  },
+  {
+    "id": 28,
+    "question": "A man is born in 1972 and dies in 1952 at the age of 25. Why?",
+    "answer": "He's born in room number 1972 of a hospital and dies in room number 1952.",
+    "clue": "```1.The numbers 1972 and 1952 refer to room numbers, not years.\n2.He died at the age of 25, which indicates a normal timeline.\n3.The story takes place within a hospital setting.```"
+  },
+  {
+    "id": 29,
+    "question": "Hiking in the mountains, you walk past a large field and camp a few miles farther on, at a stream.  It snows in the night, and the next day you find a cabin in the field with two dead bodies inside. Why?",
+    "answer": "It's the cabin of an airplane that crashed there because of the snowstorm.",
+    "clue": "```1.The \"cabin\" is actually an airplane cabin.\n2.A snowstorm caused the airplane to crash.\n3.The two dead bodies are from the airplane crash.```"
+  },
+  {
+    "id": 30,
+    "question": "A woman meets the king, cries \"Pain!\", and loses consciousness. Why?",
+    "answer": "In France, shortly after the fall of the Bastille, food shortages became a problem again.  A mob of people went to Versaille to petition the king to do something about the problem.  A small delegation was admitted to meet the king.  One woman, overcome with emotion, could only cry \"Pain\" (French for \"bread\") and faint.",
+    "clue": "```1.The story takes place in France during food shortages\n2.The woman is part of a mob petitioning the king\n3.\"Pain\" means \"bread\" in French\n4.The woman is overwhelmed by emotion```"
+  },
+  {
+    "id": 31,
+    "question": "Harry dropped a sugar cube in his coffee, then lifed it out intact a minute later. Why?",
+    "answer": "It was instant coffee; no water had been added yet.",
+    "clue": "```1.Harry used instant coffee.\n2.No water had been added yet.```"
+  },
+  {
+    "id": 32,
+    "question": "Three large people try to crowd under one small umbrella, but nobody gets wet. Why?",
+    "answer": "The sun is shining; there's no rain.",
+    "clue": "```1.There is no rain.\n2.The umbrella is used for shade from the sun.```"
+  },
+  {
+    "id": 33,
+    "question": "An ordinary woman walks on water. Why?",
+    "answer": "It's easy to walk on a lake's surface when the lake is frozen.",
+    "clue": "```1.The woman is walking on a frozen lake```"
+  },
+  {
+    "id": 34,
+    "question": "Amy drives her car due west for a quarter mile, without turning.  When she stops, the car is facing east. Why?",
+    "answer": "She drove the car backward.",
+    "clue": "```1.Amy drove her car in reverse.```"
+  },
+  {
+    "id": 35,
+    "question": "Rachael and Monica have moved into a shared house with several other occupants. Monica doesn’t like their new accommodation though because of the angry and aggressive cat that greeted them when they first walked in. Rachael realizes that there isn’t really a problem. Why?",
+    "answer": "There is a mirror near the entrance. Monica is a cat, saw her reflection, and thought that it was another cat challenging her for territory. Rachael can cover up the mirror until Monica becomes settled, but Monica will figure it out eventually even if Rachael does nothing.",
+    "clue": "```1.Monica is a cat.\n2.There is a mirror near the entrance.\n3.Monica saw her reflection and mistook it for another cat.\n4.Rachael understands the situation and can resolve it by covering the mirror.```"
+  },
+  {
+    "id": 36,
+    "question": "The sound of Brian’s snoring is usually just annoying, but today it causes terror and panic. Why?",
+    "answer": "Brian is a bus driver.",
+    "clue": "```1.Brian is a bus driver.\n2.He is snoring while on duty, causing danger to passengers and others on the road.```"
+  },
+  {
+    "id": 37,
+    "question": "Jason’s dad couldn’t keep his son from playing video games. To keep Jason from playing video games all the time, the dad grabbed a hammer and solved the problem. Now he can play video games but Jason cannot. What did the dad do?",
+    "answer": "The dad built a shelf out of Jason’s reach and put the video game console up there. The dad can still reach it to play but Jason cannot.",
+    "clue": "```1.The dad used a hammer to build a shelf.\n2.The shelf is out of Jason's reach.\n3.The video game console is placed on the shelf.\n4.The dad can still reach the shelf and play video games.```"
+  },
+  {
+    "id": 38,
+    "question": "A woman enters a large metal tube. She is overcome with fear and clenches her boyfriend’s hand tightly. She is visibly shaken. Her boyfriend gently rubs her arms and speaks softly to her, but is unaffected himself. A few hours later, the woman’s boyfriend tells her that it’s time to go and her torment ends. What was happening to the woman?",
+    "answer": "The woman is terrified of flying but must travel to see a dying relative and this adds to her stress level. Her boyfriend does his best to comfort her during the few hours of the flight.",
+    "clue": "```1.The woman has a fear of flying.\n2.They are inside an airplane.\n3.They are traveling to see a dying relative.\n4.Her boyfriend is trying to comfort her during the flight.```"
+  },
+  {
+    "id": 39,
+    "question": "After a night of partying with her friends, a sorority girl arrives home and finds that she cannot enter her house. She’s sure that she’s at the right home, but she cannot get inside. What happened that makes entering her home impossible?",
+    "answer": "Her friends took her keys away from her the night before because she had too much to drink. They ordered her an Uber to get home and kept her keys, which meant she didn’t have her house key.",
+    "clue": "```1.She had been drinking at the party.\n2.Her friends took her keys to be responsible.\n3.She arrived home without her house key.```"
+  },
+  {
+    "id": 40,
+    "question": "Every two weeks a woman sits down and writes two words on 60 sheets of paper. Why does she do this?",
+    "answer": "The woman runs her own small business with 60 employees. Every week she signs her name on their paychecks.",
+    "clue": "```1.The woman is a business owner.\n2.She has 60 employees.\n3.She writes her signature on their paychecks.\n4.The paychecks are distributed every two weeks.```"
+  },
+  {
+    "id": 41,
+    "question": "A woman hears her name and is then taken away by two men. Later, the woman dies while under the care of many. What happened to this poor woman?",
+    "answer": "The woman had committed a murder and was determined to be guilty after a fair trial. A judge called her name, gave her the death penalty, and then two bailiffs took her out of the courtroom. Years later, she was executed while under the care and supervision of a doctor and detention officers.",
+    "clue": "```1.The woman committed a murder.\n2.She was found guilty in a trial.\n3.She was sentenced to death by a judge.\n4.Two bailiffs took her away.\n5.She was executed under the supervision of a doctor and detention officers.```"
+  },
+  {
+    "question": "Three kids enter a room, but only two walkout. The room is empty. Where is the third kid?",
+    "answer": "The third kid uses a wheelchair, so they roll out of the room instead of walking out.",
+    "id": 42,
+    "clue": "```1.The third kid uses a wheelchair.\n2.Wheelchair users don't walk but roll.```"
+  },
+  {
+    "question": "Fiona entered a restaurant where a crowd of people was enjoying a meal. When the people saw Fiona they dropped their forks and fled the restaurant. What happened?",
+    "answer": "Fiona was the name of a reticulated python who escaped from the local zoo and found herself entering a crowded restaurant.",
+    "id": 43,
+    "clue": "```1.Fiona is a reticulated python.\n2.She escaped from the local zoo.\n3.People recognized Fiona as a dangerous snake.```"
+  },
+  {
+    "question": "Several voices were heard coming from the other room. There was a lot of commotion however when the room was checked there was only one person inside. What’s going on?",
+    "answer": "The other voices were coming from a TV.",
+    "id": 44,
+    "clue": "```1.There is a TV in the room.\n2.The TV was turned on and playing a program with multiple voices.\n3.The person in the room was not interacting with others, but watching the TV.```"
+  },
+  {
+    "question": "A man is sitting in a dark room having a great time. Suddenly, he stops breathing and can't speak. In a matter of moments, his breathing and ability to speak come back to him. What happened?",
+    "answer": "The man is in a movie theater enjoying his new favorite movie. He takes a drink of his favorite soda and begins to choke on an ice cube. This prevents him from breathing or speaking momentarily. Soon the ice melts and the man is able to breathe and speak again.",
+    "id": 45,
+    "clue": "```1.The man is in a movie theater.\n2.He is drinking soda with ice cubes.\n3.He chokes on an ice cube, causing temporary difficulty in breathing and speaking.\n4.The ice cube melts, allowing him to breathe and speak again.```"
+  },
+  {
+    "id": 46,
+    "question": "A man walks up to a cactus, looks at a piece of paper pinned there, and kills himself.  Why?",
+    "answer": "The man has been wandering lost in the desert. He fears he has been walking in circles. To test this, he pins a blank piece of paper to a cactus and sets off walking. When he encounters the paper again, his fears are confirmed and he knows he will never find his way out.",
+    "clue": "```1.The man is lost in the desert.\n2.He pins a paper to the cactus as a test to see if he's walking in circles.\n3.He finds the paper again, confirming his fears.\n4.He loses hope and takes his own life.```"
+  },
+  {
+    "id": 47,
+    "question": "A man with a knapsack is found dead in a desert. How did he die?",
+    "answer": "His knapsack is a parachute knapsack, and it malfunctioned.",
+    "clue": "```1.The man had a parachute knapsack.\n2.The parachute malfunctioned.```"
+  },
+  {
+    "id": 48,
+    "question": "A shadow covers Tokyo. Five seconds later New York is in blood. What happened?",
+    "answer": "A fly was flying on a map, when a man kills the fly once it was on New York",
+    "clue": "```1.The events take place on a map.\n2.A fly was involved.\n3.The \"shadow\" and \"blood\" are symbolic.\n4.A person caused the situation by killing the fly.```"
+  },
+  {
+    "id": 49,
+    "question": "A man drives down the highway at 55 miles per hour.  He passes three cars going 60 miles per hour, then gets pulled over by a police officer and is given a ticket. Why?",
+    "answer": "The man was driving the wrong way on a one way street.",
+    "clue": "```1.The man was driving in the wrong direction.\n2.The highway is a one-way street.```"
+  }
+]
