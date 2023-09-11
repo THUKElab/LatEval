@@ -18,16 +18,18 @@ Our benchmark includes:
 
 ## Data
 
-100 samples is provided in /data directory.
+100 samples are provided under the folder "data/".
 
 Below is an English example:
 
-```
-{"number": 4,
-"question": "There is blood on the ceiling of my bedroom. Why?",
-"answer": "A mosquito bit me, and I swatted it when it later landed on my ceiling (so the blood is my own as well as the mosquito's).",
-"clue": "1.Mosquito bit me.\n2.I swatted the mosquito on the ceiling.\n3.The blood is a mix of mine and the mosquito's."}
+```json
+{
+    "id": 4,
+    "question": "There is blood on the ceiling of my bedroom. Why?",
+    "answer": "A mosquito bit me, and I swatted it when it later landed on my ceiling (so the blood is my own as well as the mosquito's).",
+    "clue": "1.Mosquito bit me.\n2.I swatted the mosquito on the ceiling.\n3.The blood is a mix of mine and the mosquito's."
+}
 ```
 
-Code are coming soon.
+Code is coming soon.
 
